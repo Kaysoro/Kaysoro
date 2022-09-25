@@ -2,7 +2,7 @@
 
 ## *September 25th, 2022*
 
-*Counted seventeen HR messages on LinkdIn this morning. Must remember to begin looking for new job tomorrow.*
+*Counted seventeen HR messages on LinkedIn this morning. Must remember to begin looking for new job tomorrow.*
 
 *IT is changing.*
 

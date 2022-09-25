@@ -8,7 +8,7 @@
 
 *Entering diner, bought coffee, then sat watching my LinkedIn page, immediately across the street. Mostly experienced with Go, Java and Typescript (Node), especially in creating back end and server applications. Use Traefik, RabbitMQ, Docker, CIs, databases from MySQL to MongoDB to Redis. Still feel in the game with some statistics.*
 
-> ![Kaysoro GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysoro&show_icons=true&title_color=c9d1d9&bg_color=0d1117&text_color=8b949e&icon_color=c9d1d9&include_all_commits=true&count_private=true&hide_border=true)
+![Kaysoro GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysoro&show_icons=true&title_color=c9d1d9&bg_color=0d1117&text_color=8b949e&icon_color=c9d1d9&include_all_commits=true&count_private=true&hide_border=true)
 
 *Doesn't fit. Can't concentrate. Too tired. No sleep since Saturday. Walked home past trashcans stuffed with rumors of war, weighing factors-bodies, motives...waiting for a flash of enlightenment in all this blood and thunder.*
 
